@@ -1,0 +1,170 @@
+
+
+.profile {
+    background-color:#0d7377;
+}
+
+
+
+.profile-pic {
+    height: 200px;
+    width:auto;
+    margin-top: 1rem;
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+}
+
+.top-container {
+    
+    padding-top: 100px;
+
+}
+
+h1 {
+    font-family: 'Dancing Script', serif;
+    font-size: 5rem;
+    margin-bottom: 13.4px;
+    color: #CC3754;
+}
+
+h2 {
+    font-family: 'Dancing Script', serif;
+    font-size: 3rem;
+    color: #CC3754;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Monteserrat', serif;
+    font-size: 2.5rem;
+}
+
+.aryan-space {
+    font-family: 'Montserrat', serif;
+    font-size: 1.875rem;
+    margin-top: 13.4px;
+    
+}
+
+p {
+    font-family: 'Montserrat', serif;
+    font-size: 1.375rem;
+    margin-bottom: 95px;
+    text-align: center;
+}
+
+
+.middle-container {
+ 
+}
+
+.bottom-container {
+   
+}
+
+.top-cloud{
+    position: absolute;
+    right: 30%;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.btn:hover {
+    color: darkcyan;
+}
+
+.math {
+    width: 30%;
+    height: 25%;
+    float: right;
+    padding-left: 10%;
+    
+   
+}
+
+.cube {
+    width: 30%;
+    height: 27%;
+    float: left;    
+    padding-right: 10%;
+    padding-bottom: 5%;
+
+}
+
+.paper {
+    width: 30%;
+    height: 25%;
+    float: right;
+    padding-left: 10%;
+  
+}
+.comp {
+    width: 47%;
+    height: 50%;
+    float: left;    
+    padding-right: 1%;
+    padding-bottom: 10%;
+
+}
+
+
+
+
+ .skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: justify;
+    line-height: 1.75;
+  
+
+ }
+
+ .skill-row2 {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: justify;
+    line-height: 1.75;
+    
+
+ }
+
+ .skill-row3 {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: justify;
+    line-height: 1.75;
+
+ }
+
+ .skill-row4 {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: justify;
+    line-height: 1.75;
+
+ }
+
+
+
+
+.contact-me {
+    margin-top: 50px;
+    padding-bottom: 1rem;
+}
+
+hr {
+    border-style: dotted;
+    border-color: #eaf6f6;
+    line-height: 10px;
+    width: 50%;
+}
+
+.touch {
+    text-align: center;
+}
+
